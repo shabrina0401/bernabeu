@@ -1,12 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:9
-#EXT-X-MEDIA-SEQUENCE:227
-#EXTINF:7.52,
-http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/6268
-#EXTINF:5.08,
-http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/6268
-#EXTINF:9,
-http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/6268
-#EXTINF:3.2,
-http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/6268
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=6035832,AVERAGE-BANDWIDTH=5711458,RESOLUTION=1280x720,FRAME-RATE=60.000,CODECS="avc1.640020,mp4a.40.2"
+https://d36sjnxh4civcl.cloudfront.net/out/v1/405512e0768342198030867f77872d5b/index_1.m3u8

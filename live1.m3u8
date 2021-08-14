@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2128000,CODECS="avc1.64001F,mp4a.40.2",RESOLUTION=1280x720
-http://195.181.163.39/DEP_ESPN_ARG/tracks-v1a1/mono.m3u8
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN3/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=59590507&_cdn_timestamp=1629029845&_cdn_token=2ae27b09f673f3a5ac7ffc41febed3a12f0a4be7

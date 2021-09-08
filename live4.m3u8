@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=5859480,RESOLUTION=1280x720
-http://161.35.26.245/live/ovo4/chunks.m3u8
+https://d1komd5x2s5yw0.cloudfront.net/out/v1/e187e38df555494d8ad3bb3308b6ff7e/index_3.m3u8

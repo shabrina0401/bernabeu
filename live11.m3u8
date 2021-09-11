@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2295766,CODECS="avc1.100.30,mp4a.40.2",RESOLUTION=1024x576
-https://live.brimecdn.com/edge_abr/gYSfHc0b1GkEi3ov1WOZ/edge/gYSfHc0b1GkEi3ov1WOZ/720p/chunks.m3u8
+https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes1/esportes1_2000/index.m3u8?SBN

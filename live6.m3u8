@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2374000,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1280x720
-http://185.53.89.183/hls/nbcsn.m3u8
+https://ajrm5gczh26too.data.mediastore.us-east-1.amazonaws.com:443/stream/index_1280x720.m3u8?SBN

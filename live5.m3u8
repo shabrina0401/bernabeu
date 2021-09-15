@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1392587,RESOLUTION=854x480,CODECS="avc1.64001e,mp4a.40.2"
-ttps://d1sa3vjf6750ed.cloudfront.net/out/v1/de31d14d6b244d6da539bfc9f8a3ab37/index_1.m3u8
+https://d1sa3vjf6750ed.cloudfront.net/out/v1/de31d14d6b244d6da539bfc9f8a3ab37/index_1.m3u8

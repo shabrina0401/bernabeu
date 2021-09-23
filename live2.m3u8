@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2128000,CODECS="avc1.64001F,mp4a.40.2",RESOLUTION=1280x720
-https://google-me.cdn.booyah.live/hls/113138/89225103.m3u8
+https://livecloud.akamaized.net/band/lip2_de/fnmss0012/UiOA1cIeu61eDz6q4WherRv3eC_TOP2AOYRWZwINnM1hWq11L90Ei0G6xfKx7W-LgezD3sv73wQtDo-BIw/hdntl=exp=1632458562~acl=%2fband%2f*%2f*%2fUiOA1cIeu61eDz6q4WherRv3eC_TOP2AOYRWZwINnM1hWq11L90Ei0G6xfKx7W-LgezD3sv73wQtDo-BIw%2f*~data=hdntl~hmac=d3afa6879b7278426b116d37dbecea87c33884bb643a59093c1ecf75869f8be1/chunklist_720P.m3u8

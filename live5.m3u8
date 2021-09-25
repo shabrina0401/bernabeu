@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1392587,RESOLUTION=854x480,CODECS="avc1.64001e,mp4a.40.2"
-http://31.220.41.88:8081/live/de-skybundes5.stream/chunks.m3u8
+https://dny46juluzalr.cloudfront.net/out/v1/cfad154d97484db5bb41654794f7ddbb/index_1.m3u8

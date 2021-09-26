@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2295766,CODECS="avc1.100.30,mp4a.40.2",RESOLUTION=1024x576
-https://dny46juluzalr.cloudfront.net/out/v1/cfad154d97484db5bb41654794f7ddbb/index_1.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1632653984~acl=%2fhls-p%2fingest_8111_%2a%2f%2a~hmac=e94dbb02be6fcf54a97716281baf63e1654e46abaf666bf8a5320f59f25afc46/hls-p/ingest_8111_720p/index.m3u8

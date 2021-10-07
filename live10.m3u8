@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-http://cdn.raino.xyz/soccer/soccer5-version1/rainostream.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1633620687~acl=/hls-p/ingest_6685_*/*~hmac=c02f9f031bbf2d9b7363b6e47f7e8ff6f58c02ff894141372cb1e455f5d3c8e4/hls-p/ingest_6685_720p/index.m3u8

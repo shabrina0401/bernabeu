@@ -1,3 +1,4 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://liveevent5.rctiplus.id/liveevent/livechat1_720p.m3u8?auth_key=1641496117-0-0-ce810a2ddf449c81c8df8109cbd0b320
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2321508,RESOLUTION=1920x1080,CODECS="avc1.4d4028"
+http://4.yacineapptv.com.global.prod.fastly.net/live/9787488847/index.m3u8

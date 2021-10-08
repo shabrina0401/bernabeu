@@ -1,8 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:7
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="audio_und",LANGUAGE="und",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="QualityLevels(128000)/Manifest(audio_und,format=m3u8-cmaf)"
-#EXT-X-STREAM-INF:BANDWIDTH=3724136,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.5",AUDIO="audio"
-https://germany21-euwe.streaming.media.azure.net/0ddd5f21-8185-40f6-90b2-109a17905b6b/bf59d975-5d3f-44a2-bc05-b1efb4e55845.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-cmaf)
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=3724136,RESOLUTION=1280x720,CODECS="avc1.64001f",URI="https://germany21-euwe.streaming.media.azure.net/0ddd5f21-8185-40f6-90b2-109a17905b6b/bf59d975-5d3f-44a2-bc05-b1efb4e55845.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-cmaf,type=keyframes)"
-#EXT-X-STREAM-INF:BANDWIDTH=138976,CODECS="mp4a.40.5",AUDIO="audio"
-https://germany21-euwe.streaming.media.azure.net/0ddd5f21-8185-40f6-90b2-109a17905b6b/bf59d975-5d3f-44a2-bc05-b1efb4e55845.ism/QualityLevels(128000)/Manifest(audio_und,format=m3u8-cmaf)
+#EXT-X-VERSION:6
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=3256000,AVERAGE-BANDWIDTH=2959999,CODECS="avc1.640020,mp4a.40.2",FRAME-RATE=30,RESOLUTION=1280x720
+https://dj8baylqw7a4h.cloudfront.net/out/v1/411224c490e5498e9ebbf9c7c7fe56ea/index_1.m3u8

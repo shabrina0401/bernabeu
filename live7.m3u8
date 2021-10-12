@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2321508,RESOLUTION=1920x1080,CODECS="avc1.4d4028"
-http://4.yacineapptv.com.global.prod.fastly.net/live/918454578/index.m3u8
+https://d26x2wguzntzfb.cloudfront.net/out/v1/9d1eae77245f4235b8ce070f48cfa911/index_1.m3u8

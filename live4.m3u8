@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2321508,RESOLUTION=1920x1080,CODECS="avc1.4d4028"
-https://d1a9xtygne4fah.cloudfront.net/out/v1/dacf88696e78454f8f7306a9ed7bcfef/index_3.m3u8
+https://d1usj6rohqgxlt.cloudfront.net/out/v1/cc97d73176dc4ef29dff2433e6c340d3/index_1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2321508,RESOLUTION=1920x1080,CODECS="avc1.4d4028"
+https://d1usj6rohqgxlt.cloudfront.net/out/v1/cc97d73176dc4ef29dff2433e6c340d3/index_3.m3u8

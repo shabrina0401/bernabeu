@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=565976,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-http://master2b.uefa-tv.com/live/streamf1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMSA0OjI5OjU0IFBNJmhhc2hfdmFsdWU9dnc5Mnl1Z2JUVngvVDZ0eHFOR3ExUT09JnZhbGlkbWludXRlcz0xMjAmaWQ9OTQuMjM0LjQwLjk1JnN0cm1fbGVuPTU=
+http://89.187.168.245:8080/live/m0t0/tracks-v1a1/mono.m3u8?SBN

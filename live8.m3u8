@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2321508,RESOLUTION=1920x1080,CODECS="avc1.4d4028"
-http://stream.raino.xyz/hls/stream11.m3u8
+ttps://d2e4yisteb3cdx.cloudfront.net/out/v1/f603f8e4c5d34f8cb307c3d061177be3/index_1.m3u8

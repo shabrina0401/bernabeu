@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2128000,RESOLUTION=1280x720
-https://d24agcn22w12ts.cloudfront.net/out/v1/e3a15f3b4701457e95ac23ff52477990/index_1.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
+https://etslive-2-vidio-com.akamaized.net/exp=1635677590~acl=/hls-p/ingest_8198_*/*~hmac=eb9dc4df2990093923ffbc64911cbd5fef3a0affa9aa3a9d6b87d2bf59f2f1ec/hls-p/ingest_8198_720p/index.m3u8

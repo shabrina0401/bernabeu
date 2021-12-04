@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-http://cdn3.cyclingnews.live/hls/W1.m3u8
+https://edge-2.volume.com/live-edge/amlst:jeanplus-sd-688e7ecac299090e4f674684c7d9e526087da274e4ee54ae4fcc4d6a5284d7cc_trns_h264/chunklist_w750681990_b3096000_t64RlBTOjI5Ljk3.m3u8

@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-DYNAMICALLY-GENERATED
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2750000,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2",FRAME-RATE=25.000
-https://prod-fastly-us-west-1.video.pscp.tv/Transcoding/v1/hls/NyyXOiiiK90PWjNuBoRcuamvb_UsmDIUpShu95EoXXeWsdBEOQSNazeXXyGLlJZjXPmp-vkd3PHGA3c2OG3NgA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+https://prod-fastly-us-west-1.video.pscp.tv/Transcoding/v1/hls/NyyXOiiiK90PWjNuBoRcuamvb_UsmDIUpShu95EoXXeWsdBEOQSNazeXXyGLlJZjXPmp-vkd3PHGA3c2OG3NgA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/playlist_16804212315390097898.m3u8

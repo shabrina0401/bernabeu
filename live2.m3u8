@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-DYNAMICALLY-GENERATED
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4500000,RESOLUTION=1280x720,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=60.018
-http://cdn1.cyclingstreams.xyz/hls/M1.m3u8
+https://europe-west-hls.mls.mycujoo.tv/esgp/ckyjqv7oo00jt01814ru1bv4w/720p/playlist.m3u8

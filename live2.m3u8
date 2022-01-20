@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-DYNAMICALLY-GENERATED
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4500000,RESOLUTION=1280x720,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=60.018
-https://europe-west-hls.mls.mycujoo.tv/esgp/ckyjqv7oo00jt01814ru1bv4w/720p/playlist.m3u8
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/EnpnO17a21ztMkZuIR9J02r1jUEER3z6k4lmolBTiaCXhlY4rJvf_2mvvGgJvHBxl9wBkuwUN5A9tWjN7W_4Fg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_highlatency.m3u8?type=live
+

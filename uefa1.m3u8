@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1162511,RESOLUTION=1280x720,CODECS="avc1.64081f,mp4a.40.2"
-https://live.banthang.link/7033ddda2203d93aeb54346ba9bdfc8a8b24417a/6af0108168ba023afe616779a93f335d/1646959300/live/_definst_/stream_1_4e329@VG20/chunklist.m3u8
+#EXT-X-DYNAMICALLY-GENERATED
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2750000,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2",FRAME-RATE=25.000
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/UrOcm9NXBoFg9vLNrJHXc50WyXw2zmLBt3xPwvp27BpmIadyDHAfAdNlkmR6a8e0dnpW8SuXh06NWkgnNbr6Zw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live

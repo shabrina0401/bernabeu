@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3712137,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2"
+https://stream.dlivecdn.com/dlive/transcode-93-29/rwzn/1671038956/src/live.m3u8

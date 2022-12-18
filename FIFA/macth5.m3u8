@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://yytcpull.gdsth.com/live/stream-558696.m3u8?txSecret=454f332cb602442e333daeee2cfc179e&txTime=639f237b
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5190656,RESOLUTION=1920x1088
+https://drfamaga5qlivcf.vcdn.com.vn/vtv06/vtv06@1080p.m3u8

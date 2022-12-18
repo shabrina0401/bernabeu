@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=edf408e4c28146e14fa96a351b1dcac9&txTime=639fa044
+https://node2.olelive.com:6443/live/CCTV5HD_360/hls.m3u8

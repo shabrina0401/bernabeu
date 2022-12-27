@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://hls.mlive.in.th/live/033c002xxxc1182e908c03201b13cfr9/playlist.m3u8
+https://stream.dlivecdn.com/dlive/transcode-81-110/jzrx/1672090563/src/live.m3u8

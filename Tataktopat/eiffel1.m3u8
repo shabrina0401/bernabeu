@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=444100,RESOLUTION=480x270,NAME="270p"
+https://cdn14jtedge.indihometv.com/joss/133/beib1/chunklist_w1602611732_b444100_devds_sleng.m3u8?enc=3EiQkj0crkiftW5lreudzg&uid=&exp=1672265489
+#EXT-X-STREAM-INF:BANDWIDTH=844100,RESOLUTION=640x360,NAME="360p"
+https://cdn14jtedge.indihometv.com/joss/133/beib1/chunklist_w1602611732_b844100_devds_sleng.m3u8?enc=3EiQkj0crkiftW5lreudzg&uid=&exp=1672265489
+#EXT-X-STREAM-INF:BANDWIDTH=1244100,RESOLUTION=960x540,NAME="540p"
+https://cdn14jtedge.indihometv.com/joss/133/beib1/chunklist_w1602611732_b1244100_devds_sleng.m3u8?enc=3EiQkj0crkiftW5lreudzg&uid=&exp=1672265489
+#EXT-X-STREAM-INF:BANDWIDTH=1544100,RESOLUTION=1280x720,NAME="720p"
+https://cdn14jtedge.indihometv.com/joss/133/beib1/chunklist_w1602611732_b1544100_devds_sleng.m3u8?enc=3EiQkj0crkiftW5lreudzg&uid=&exp=1672265489

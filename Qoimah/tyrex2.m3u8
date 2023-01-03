@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=844100,RESOLUTION=640x360,NAME="360p"
+https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=6282e8eaf7d16fd6c55cafedf391b41d&txTime=63b5d3fe

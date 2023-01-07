@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=591eb477448e8f0681b4da84c0a0c5a2&txTime=63b62ae3
+https://stream.dlivecdn.com/dlive/transcode-89-110/njfh/1673099614/src/live.m3u8

@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2500000,NAME=1080p,RESOLUTION=1920x1080
-https://etslive-2-vidio-com.akamaized.net/exp=1673353138~acl=/hls-p/ingest_205_*/*~hmac=efde8ac485ec70d2c95f447c83a97b53cb128e8e77d3d1676c3dcfac0dc7d59f/hls-p/ingest_205_480p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
+https://yytcpull.gdsth.com/live/stream-551899.m3u8?txSecret=8e4e73ced82cbdefcc93bc1dc5d801b0&txTime=63bfbf38

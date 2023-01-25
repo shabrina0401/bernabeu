@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1871953,CODECS="avc1.42041f,mp4a.40.2",RESOLUTION=1280x720
-https://cam4-hls.xcdnpro.com/318/cam4-origin-live/hclq_dktne93-318-9c90de30-6672-4688-b1b8-0bda5045eca3_aac/chunklist.m3u8

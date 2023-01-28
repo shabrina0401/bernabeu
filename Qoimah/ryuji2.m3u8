@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2500000,NAME=1080p,RESOLUTION=1920x1080
-https://mcqueen@sports01.livnvess.com/live/stream-168740.m3u8?txSecret=76f6c497bfa119f04e6b7e9f62b94a57&txTime=63d28fd7?useropken=mcqueen
+https://etslive-2-vidio-com.akamaized.net/exp=1674904981~acl=/hls-p/ingest_205_*/*~hmac=fe793082d3fde572d96fbb2cae0e3d4432404fd320e1ba6ab3419a549de1fe72/hls-p/ingest_205_480p/index.m3u8

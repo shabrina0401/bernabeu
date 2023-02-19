@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://pullalilive.livnvess.com/live/stream-158841.m3u8?auth_key=1676751134-0-0-66a171b327d0cd7bdb83ff46f6f45370
+#EXT-X-STREAM-INF:BANDWIDTH=2447970,CODECS="mp4a.40.2,avc1.4d401f",RESOLUTION=1280x720,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1676830945/ei/gRTyY9-AC5Hs4wLxu6igDQ/ip/194.156.99.166/id/EC2JVOaD8HA.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr1---sn-npoe7ney.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/150000/mh/-p/mip/51.79.165.208/mm/44/mn/sn-npoe7ney/ms/lva/mv/m/mvi/1/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1676809241/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhALFDZWuK20cdXF7cZDLXrnXwtkH5iEHQ5Z0zJ-Ya2IBnAiAhAWe5e9udtlXN8bKkSAoyuhtnGqJrA9gzWjL0hKn8Vg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIge5bz37YF0n9-kQrJkm2n_kHKDy_mKCEGt85YudpD6vgCIQD2ymrHrHDdGnOyfCo7LTT_1NwoCFgX5RkDn4OSNpQbDQ%3D%3D/playlist/index.m3u8

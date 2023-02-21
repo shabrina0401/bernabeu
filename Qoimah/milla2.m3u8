@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2500000,NAME=1080p,RESOLUTION=1920x1080
-https://standard-pull.qcllh.com/sm/10021_920578_lhd.m3u8?auth_key=1676878903-0-0-568fd7b2c49b83bdb0c94aa2ecd7a727
+https://etslive-2-vidio-com.akamaized.net/exp=1676979435~acl=/hls-p/ingest_205_*/*~hmac=d95813c70425e4caf6ec2c69fc8a4cc6f63863cae54941ff2dcabd5ea0bfb784/hls-p/ingest_205_480p/index.m3u8

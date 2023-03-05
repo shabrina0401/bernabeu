@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2500000,NAME=1080p,RESOLUTION=1920x1080
-https://etslive-2-vidio-com.akamaized.net/exp=1677851266~acl=/hls-b/ingest_205_*/*~hmac=5e345213ebd151261a956e631fa26242dee1bfa4ac63b23cc0a311ca46b45b58/hls-b/ingest_205_720p/index.m3u8
+https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=043e513072015674d24d525ea547f4cb&txTime=64048430

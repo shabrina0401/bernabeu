@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=78cd09d16b25b7405c8d1da2d8856758&txTime=6413be71
+https://lin-gd-001-cf.slivcdn.com/out/v1/6405a2743163448bba0f3ee5e68e7bc3/master_2.m3u8?hdntl=exp=1679093366~acl=*~hmac=dcc4e098c0cdf6f9862674252d0de3b5381811b2a8ab10d6a514ca04ff3e49e7&originpath=/linear/hls/pb/event/LK-ik89MQIi_pWBbg74KNQ/stream/ff9e19b9-64d0-4344-95fb-147ce437b980:TPE2/variant/180a140a61a240b31add46b5b8fc19c7/bandwidth/4789188.m3u8

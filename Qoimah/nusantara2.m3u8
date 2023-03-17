@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080
-https://pull06.scstream.net/live/stream-226699_lhd.m3u8?auth_key=1678973837-0-0-3724d855a42005ed7c72fcc97b3e4560
+https://etslive-2-vidio-com.akamaized.net/exp=1679053511~acl=/hls-b/ingest_205_*/*~hmac=e43788c84c1bb90160272c3f690fd0e62c1a85ebfcfa8389e37f9481c9d00032/hls-b/ingest_205_720p/index.m3u8

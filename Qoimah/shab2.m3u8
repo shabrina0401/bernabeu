@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://lin-gd-001-cf.slivcdn.com/out/v1/6405a2743163448bba0f3ee5e68e7bc3/master_2.m3u8?hdntl=exp=1679093366~acl=*~hmac=dcc4e098c0cdf6f9862674252d0de3b5381811b2a8ab10d6a514ca04ff3e49e7&originpath=/linear/hls/pb/event/LK-ik89MQIi_pWBbg74KNQ/stream/ff9e19b9-64d0-4344-95fb-147ce437b980:TPE2/variant/180a140a61a240b31add46b5b8fc19c7/bandwidth/4789188.m3u8
+https://lin-gd-001-cf.slivcdn.com/out/v1/80891f4d48cc41bda7e62cc601fad8cd/master_2.m3u8?hdntl=exp=1679203111~acl=*~hmac=bfa697c60176386d1a40369204bf620724e8fd202ee95ef66f21925d87c55426&originpath=/linear/hls/pb/event/6WhVNGKTRXyu588zZv1Lkg/stream/cfb99201-4eca-4cb4-89ea-6cfee764ea02:TPE2/variant/0d10c69d5e3db48397cb91a0f980987a/bandwidth/1828609.m3u8

@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2500000,NAME=1080p,RESOLUTION=1920x1080
-https://standard-pull.qcllh.com/sm/10021_428429_lhd.m3u8?auth_key=1679318920-0-0-ded4467f5c4484908cbe8df17157b71d
+https://lin-gd-001-cf.slivcdn.com/out/v1/80891f4d48cc41bda7e62cc601fad8cd/master_8.m3u8?hdntl=exp=1679285848~acl=*~hmac=548de8580b385a3fab011e5e99aa102a604981588082338bd70a36dc0deeb9dd&originpath=/linear/hls/pb/event/6WhVNGKTRXyu588zZv1Lkg/stream/dd85dcb7-ef0e-471a-bf8b-599c814d1a62:TPE/variant/ef7096701288e453b68d8a77d649b317/bandwidth/2752640.m3u8

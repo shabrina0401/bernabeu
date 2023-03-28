@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal2HB_sjb480.m3u8?auth_key=1709715974-0-0-4b45f76e89b88a964f8cc90d9565e2f4
+https://hls3.04lv.com/live/L1462753.m3u8?txSecret=e65f1c2f5ba65f1b8081a78da75af6b6&txTime=64244DC0&_s=stream

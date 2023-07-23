@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://pull.niues.live/live/stream-991150_lhd.m3u8?auth_key=1690099828-0-0-6936721b88ab8c1828ed739cc267dfc2
+https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991150_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=2cb470f70d708eb0d9cda4b4b21da876&auth_key=1690101928-0-0-619d14155a0f3ff875f8f0b6b5a084e1

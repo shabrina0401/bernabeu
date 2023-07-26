@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://dami.dmplay.live/m3u8.php?url=https://play1nm.hnyongshun.cn/live/sd-1-3746934.m3u8
+https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991169_lhd.m3u8?sub_m3u8=true&auth_key=1690415128-0-0-92ae84cbeb681307ed81f5f154fe2b0d&user_session_id=d535380c3936781d61f991709b5ce0d2&edge_slice=true

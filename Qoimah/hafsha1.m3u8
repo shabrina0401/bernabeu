@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://pull01.rrwes.live/live/stream-991165_lhd.m3u8?txSecret=d27102d5d0c4c75fb8b62074b97cc328&txTime=64c15834
+https://pull-gaia-bac.soucan.so/live/dps-58073642-hydra-wsu/playlist.m3u8?wsSecret=096de00b3423b78a98e5a6ed0e938a21&wsABSTime=64c66d1c

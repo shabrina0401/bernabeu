@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991156_lhd.m3u8?auth_key=1691225309-0-0-9b8d05ce9a6c125157de00d361658e6e&sub_m3u8=true&user_session_id=97e80a6fa083dc7df251ff61d277a2e6&edge_slice=true
+https://etslive-2-vidio-com.akamaized.net/exp=1691249420~acl=/hls-p/ingest_205_*/*~hmac=20da6b8d3c486da00e846f6cea29541152f07cc176b2d24263262ed15efbd140/hls-p/ingest_205_480p/index.m3u8

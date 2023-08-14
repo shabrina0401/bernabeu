@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1568726,CODECS="mp4a.40.2,avc1.4d401f",RESOLUTION=854x480,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991194_lhd.m3u8?sub_m3u8=true&auth_key=1691026109-0-0-fd8b949dc6d6b8086c9c9d7577578113&user_session_id=ecc34751ab04dfdcd89922c47b1df79a&edge_slice=true
+https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1692028230-0-0-2f6c8cf83446122cb469f58894be8806&edge_slice=true&user_session_id=5affdaf3f477de2e5a647e4490f3d9ea&sub_m3u8=true

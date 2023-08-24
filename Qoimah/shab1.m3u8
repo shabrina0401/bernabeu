@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=800000,NAME="480p",RESOLUTION=854x480
-https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911994_lhd.m3u8?user_session_id=1efb1fc4e8b832c0b8b98d1d1e50e1bd&auth_key=1692884971-0-0-4ca446bd071c8ee6a637faf619db5ac6&sub_m3u8=true&edge_slice=true
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911991_lhd.m3u8?edge_slice=true&auth_key=1692902731-0-0-42d94d48403b8defae898f3a37a4e284&user_session_id=b7c163c8fa95da117e939de762263945&sub_m3u8=true

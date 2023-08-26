@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911994_lhd.m3u8?user_session_id=1efb1fc4e8b832c0b8b98d1d1e50e1bd&auth_key=1692884971-0-0-4ca446bd071c8ee6a637faf619db5ac6&sub_m3u8=true&edge_slice=true
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911994_lsd.m3u8?user_session_id=1efb1fc4e8b832c0b8b98d1d1e50e1bd&auth_key=1692884971-0-0-4ca446bd071c8ee6a637faf619db5ac6&sub_m3u8=true&edge_slice=true

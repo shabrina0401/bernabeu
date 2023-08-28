@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://pull-gaia-bac.soucan.so/live/dps-58180233-saturn-wsu/playlist.m3u8?wsSecret=78ef7f612be6060569cfcd3ddc547baf&wsABSTime=64eb814c
+https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=840fe5f7f9f97a9702b14a640c7068a8&txTime=64eca0c3

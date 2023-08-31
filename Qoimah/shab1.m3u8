@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=800000,NAME="480p",RESOLUTION=854x480
-https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=018ddbd576bafeea361f59860c4ad592&txTime=64ee81b4
+https://sport.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8

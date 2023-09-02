@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9912009_lhd.m3u8?edge_slice=true&auth_key=1693644272-0-0-d491b5839039f46671ba7a176a80c98f&sub_m3u8=true&user_session_id=4cda3266031b2863291e7fcec9723b69
+https://pull-gaia-bac.soucan.so/live/dps-58125755-saturn-wsu/playlist.m3u8?wsSecret=319a67cd598f8fa188ef2d01fbc8a8f7&wsABSTime=64f36a4c

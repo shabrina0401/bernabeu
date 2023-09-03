@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9912012_lsd.m3u8?edge_slice=true&user_session_id=d219ae374dfbf4dcaf20bd81e654e32c&auth_key=1693683332-0-0-98c910abd620644c785de69f311f7b5d&sub_m3u8=true
+https://pull01.rrwes.live/live/stream-192778_lsd.m3u8?txSecret=66b7729a5a943963dff76c17ce6fc43c&txTime=64f50674

@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=800000,NAME="480p",RESOLUTION=854x480
-https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=38949b45eb09d785214ca50a76a6ec58&txTime=650c7fa0
+https://pull.niues.live/live/stream-9912047_lsd.m3u8?auth_key=1695310840-0-0-0a18c25c7a84eb65c8069968c5e4e3fa

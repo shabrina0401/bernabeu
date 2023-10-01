@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://pull.niues.live/live/stream-9912040_lhd.m3u8?auth_key=1696063001-0-0-648ac30fe0859d35da9fad71bb50942d
+https://etslive-2-vidio-com.akamaized.net/exp=1696160661~acl=/hls-p/ingest_205_*/*~hmac=65284e2beb9fad7204fda24988feec13d43a576706de94d205d2c0d30fc58fff/hls-p/ingest_205_720p/index.m3u8

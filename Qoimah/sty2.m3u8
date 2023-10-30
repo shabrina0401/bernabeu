@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2400567,RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio1"
-https://op-krgroup1-swiftservehd-1.dens.tv/s/s04/01.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1698675679~acl=/hls-p/ingest_205_*/*~hmac=1f9fa3c28d67316472dd94d88cc89d54a65e1019d6bbbeb064351accb12530de/hls-p/ingest_205_720p/index.m3u8

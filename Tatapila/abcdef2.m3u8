@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1700022191-0-0-5c37138ddf8e5075a7e4ea5f9a69e72c
+https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=c6f5f551ced6b0b92f031f2bf79c066a&txTime=655501ea
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1700022191-0-0-5c37138ddf8e5075a7e4ea5f9a69e72c
+https://pull01.rrwes.live/live/stream-9912019_lsd.m3u8?txSecret=8081837c86145d633b8a4a7e6b67f18d&txTime=655501ea

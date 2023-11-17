@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=748166b416e1b05ecd24d42b0c25be6a&txTime=6557798e
+https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=38dd43aae44d557fca56ce5c0980a1f6&txTime=6557a382
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=9690ff279a33a4ed73574ad51c84256b&txTime=65577aba
+https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=8287bd50645a96f58d1b588e3e977b63&txTime=6557a3be

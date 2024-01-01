@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://pull.lianggexinxi.xyz/live/stream-431228_lhd.m3u8?auth_key=1704114746-0-0-37539ff6bb97cd8002028e666b20ba80
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://ed60e6e67f460afe5345e98fff768af4.livehwc3.cn/pull.lianggexinxi.xyz/live/stream-431228_lhd.m3u8?sub_m3u8=true&user_session_id=97a746b120f01431f2bdca119d68f051&auth_key=1704114746-0-0-37539ff6bb97cd8002028e666b20ba80&edge_slice=true

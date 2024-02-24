@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2250000,AVERAGE-BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://starball.starlive.workers.dev/live/sd-1-215756.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1708774694~acl=/hls-p/ingest_205_*/*~hmac=e7fe5be5c3990996b4014318d206110942f62c8961038318548956ebb0dc7018/hls-p/ingest_205_720p/index.m3u8

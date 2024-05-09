@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3712137,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2"
-https://stream.dlivecdn.com/dlive/transcode-93-29/qyxz/1671255636/src/live.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
+https://cors-proxy.elfsight.com/https://pull.niur.live/live/stream-9912093_lsd.m3u8?txSecret=11aba7ca6bfb2b7fc8e172527ba99b30&txTime=663d1760

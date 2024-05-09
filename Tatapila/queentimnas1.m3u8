@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://pull01.rrwes.live/live/stream-273067_lsd.m3u8?txSecret=ca932594e7f634c7ba6c1c58be814ff1&txTime=655cdc26
+https://cors-proxy.elfsight.com/https://play1nm.hnyongshun.cn/live/sd-6MsFegYxyq8bgZyKtJ.m3u8

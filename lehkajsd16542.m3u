@@ -1,10 +1,1 @@
-#EXTM3U url-tvg="http://epg.kampung.xyz" refresh="3600"
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/pict/main/Live/NBA.png" group-title="LIVE EVENT", Mavericks vs Timberwolves
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shabrina0401/pict/main/Live/NBA.png" group-title="LIVE EVENT", Mavericks vs Timberwolves
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd

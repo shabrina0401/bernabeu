@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://cors-proxy.cluster.fun/https://pull.niues.live/live/stream-9912086_lhd.m3u8?auth_key=1711456988-0-0-401fc0e1cd13f6e49df65f1eede495c7
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=700000,NAME=480p,RESOLUTION=576x480
-https://cors-proxy.cluster.fun/https://pull.niues.live/live/stream-9912086_lsd.m3u8?auth_key=1711456988-0-0-2370e62bfa28f8e797849066cdba0603
